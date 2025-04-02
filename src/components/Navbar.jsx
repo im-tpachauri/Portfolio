@@ -54,7 +54,7 @@ const Navbar = () => {
           {/* Social Icons for desktop */}
           <div className='hidden sm:flex items-center gap-8'>
             <a 
-              href="https://www.linkedin.com/in/ansh-gupta-0a2761214/" 
+              href="https://www.linkedin.com/in/pachauritanmay" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-white hover:text-secondary transition-colors"
@@ -62,7 +62,7 @@ const Navbar = () => {
               <FaLinkedin size={28} />
             </a>
             <a 
-              href="https://github.com/anshgupta-007" 
+              href="https://github.com/im-tpachauri" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-white hover:text-secondary transition-colors"
@@ -70,7 +70,7 @@ const Navbar = () => {
               <FaGithub size={28} />
             </a>
             <a 
-              href="http://leetcode.com/u/anshguptahoney/" 
+              href="http://leetcode.com/u/im_tpachauri/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-white hover:text-secondary transition-colors"
